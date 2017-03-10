@@ -1,5 +1,5 @@
 #define TINYOBJ_LOADER_C_IMPLEMENTATION
-#include "../../tinyobj_loader_c.h"
+#include <objloader.h>
 
 #include <GL/glew.h>
 #include <float.h>
